@@ -1,4 +1,7 @@
-# LuoxHubV3
+# Luox Shortcut Hub
 
-This project is open-source
-To download the shortcuts file, you need to unlock it [here](https://social-unlock.com/luoxhub)
+## To download the shortcuts file, click the link : (french or english version)
+### Pour télécharger le raccourci, cliquez sur le lien : (version française ou anglaise)
+
+[English Version (Version Anglaise) :](https://routinehub.co/shortcut/18432/)
+[Version Française (French Version) :](https://routinehub.co/shortcut/18434/)
